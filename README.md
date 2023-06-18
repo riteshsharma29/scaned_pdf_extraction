@@ -2,7 +2,7 @@
 Extract text from scanned pdf
 
 """
-pip install whl suitable whl based on your distribution from here https://github.com/simonflueckiger/tesserocr-windows_build/releases <br>
+pip install whl suitable whl based on your distribution from here <br> https://github.com/simonflueckiger/tesserocr-windows_build/releases <br>
 store tesseract train data eng.traineddata <br>
 documentation and sources: <br>
 https://github.com/sirfz/tesserocr <br>
