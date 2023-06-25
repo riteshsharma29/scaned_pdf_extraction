@@ -8,4 +8,5 @@ documentation and sources: <br>
 https://github.com/sirfz/tesserocr <br>
 https://github.com/tesseract-ocr/tessdata/tree/main <br>
 https://github.com/sirfz/tesserocr/issues/100 <br>
+https://stackoverflow.com/questions/32957441/putting-many-python-pandas-dataframes-to-one-excel-worksheet <br>
 """
